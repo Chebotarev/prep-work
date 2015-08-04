@@ -318,8 +318,7 @@ is like writing
 
 ## Breaking Out of Loops
 
-Let's write some code that finds an item in an array and prints its
-position:
+Let's write some code that finds an item in an array and prints its position:
 
 ```ruby
 puts("Please type GIZMO")
